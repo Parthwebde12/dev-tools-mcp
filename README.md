@@ -35,7 +35,6 @@ Example of executing a tool and inspecting its output.
 
 ![Developer tool execution example](docs/images/tool-execution.png)
 
-> **Note:** Add your actual screenshots at the paths shown above for these images to appear.
 
 ##  Getting Started
 
